@@ -1,0 +1,39 @@
+/** Copyright (c) 2024 Developer Dar Rehan Rasool, Computer Science Student **/
+/** Copyright (c) 2024 Developer Dar Rehan Rasool, Computer Science Student **/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6f8;
+  }
+  
+  .dashboard {
+    padding: 20px;
+  }
+  
+  .dashboard-item {
+    padding: 15px;
+    background-color: #e3f2fd;
+  }
+  
+  .profile-card {
+    margin: 20px;
+  }
+  
+  .disease-risk {
+    padding: 20px;
+    background-color: #ffebee;
+  }
+  
+  .eye-scan, .heart-scan {
+    padding: 15px;
+    background-color: #fce4ec;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #0d47a1;
+    color: #fff;
+  }
