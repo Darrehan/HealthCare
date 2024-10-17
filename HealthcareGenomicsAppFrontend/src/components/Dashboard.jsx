@@ -9,10 +9,10 @@ const Dashboard = () => {
       <Typography variant="h4" gutterBottom>Personalized Health Dashboard</Typography>
       <Grid container spacing={3}>
         <Grid item xs={6}>
-          <Paper className="dashboard-item">Health Overview</Paper>
+          <Paper className="dashboard-item">HealthOverview</Paper>
         </Grid>
         <Grid item xs={6}>
-          <Paper className="dashboard-item">Genomic insights</Paper>
+          <Paper className="dashboard-item">Genomicinsights</Paper>
         </Grid>
       </Grid>
     </Paper>
